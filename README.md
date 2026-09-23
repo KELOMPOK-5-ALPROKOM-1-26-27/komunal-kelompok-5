@@ -138,7 +138,7 @@ Kode program dan laporan praktikum disimpan secara langsung di dalam folder pert
 Struktur repository:
 
 ```text
-NamaLengkap_119/
+NamaLengkap-3DigitNRPTerakhir/
 ├── Pertemuan 1/
 │   ├── NamaProgram_Kelompok5_NamaLengkap.java
 │   └── LaporanPraktikum1_Kelompok5_NamaLengkap.pdf
