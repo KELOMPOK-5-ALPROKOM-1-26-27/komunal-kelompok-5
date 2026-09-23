@@ -19,36 +19,50 @@ Repository ini berfungsi sebagai pusat informasi materi praktikum, instruksi pen
 
 > ℹ️ **Status Saat Ini:** Materi dan penugasan akan diperbarui secara berkala sesuai minggu praktikum yang berjalan.
 
-|  Week  | Topik / Materi                   |                                   Slide Materi                                    |                Detail Tugas                 |       Tenggat Waktu Tugas        |
-| :----: | :------------------------------- | :-------------------------------------------------------------------------------: | :-----------------------------------------: | :------------------------------: |
-| **02** | Variabel, Tipe Data dan Operator | [📖 Lihat Materi](./Pertemuan%202/Variabel%2C%20Tipe%20Data%20dan%20Operator.pdf) | [📝 Lihat Tugas](./Pertemuan%202/Tugas.pdf) | **18:30 WIB, 30 September 2026** |
-| **03** | _To be announced_                |                                 🔒 _Coming Soon_                                  |              🔒 _Coming Soon_               |                -                 |
-| **04** | _To be announced_                |                                 🔒 _Coming Soon_                                  |              🔒 _Coming Soon_               |                -                 |
+| Pertemuan | Topik / Materi                   |                                    Slide Materi                                   |                 Detail Tugas                |        Tenggat Waktu Tugas       |
+| :-------: | :------------------------------- | :-------------------------------------------------------------------------------: | :-----------------------------------------: | :------------------------------: |
+|   **02**  | Variabel, Tipe Data dan Operator | [📖 Lihat Materi](./Pertemuan%202/Variabel%2C%20Tipe%20Data%20dan%20Operator.pdf) | [📝 Lihat Tugas](./Pertemuan%202/Tugas.pdf) | **18:30 WIB, 30 September 2026** |
+|   **03**  | *To be announced*                |                                  🔒 *Coming Soon*                                 |               🔒 *Coming Soon*              |                 -                |
+|   **04**  | *To be announced*                |                                  🔒 *Coming Soon*                                 |               🔒 *Coming Soon*              |                 -                |
 
 ---
 
 ### 🚀 Alur Pengumpulan Tugas Praktikan
 
-Setiap praktikan telah dibuatkan repository pribadi di dalam Organisasi GitHub ini dengan format nama:
+Setiap praktikan telah dibuatkan repository pribadi di dalam Organisasi GitHub ini.
 
-`[nama-panggilan]-[3 digit terakhir NRP]`
+#### 📁 Format Nama Repository
 
-Contoh: `fikri-119`
+Nama repository menggunakan format:
 
-#### 1. Terima Undangan (_Invitation_)
+```text
+NamaLengkap_3DigitTerakhirNRP
+```
 
-1. Cek email yang terdaftar di akun GitHub kamu atau cek notifikasi GitHub untuk menerima undangan akses (_invitation_) ke repository tugas individu.
-2. Kamu juga bisa mengakses langsung daftar repository melalui halaman utama [Organisasi Kelompok 5](https://github.com/KELOMPOK-5-ALPROKOM-1-26-27).
+Contoh:
+
+```text
+MuhammadFikriHidayat_119
+```
+
+> **Catatan:** Gunakan nama lengkap sesuai data yang telah diberikan kepada asisten praktikum dan tiga digit terakhir NRP.
 
 ---
 
-#### 2. Cara Pengerjaan & Upload Tugas
+### 1. Terima Undangan (*Invitation*)
 
-Kamu bisa memilih **salah satu dari dua cara** berikut untuk mengunggah tugas mingguan ke repository pribadi kamu.
+1. Cek email yang terdaftar di akun GitHub kamu atau cek notifikasi GitHub untuk menerima undangan akses (*invitation*) ke repository tugas individu.
+2. Kamu juga dapat mengakses daftar repository melalui halaman utama [Organisasi Kelompok 5](https://github.com/KELOMPOK-5-ALPROKOM-1-26-27).
 
-##### 🟢 Opsi A: Menggunakan Git Terminal (Rekomendasi)
+---
 
-Jika kamu ingin belajar alur kerja standar pengembang _software_, gunakan terminal atau _Command Prompt_.
+### 2. Cara Pengerjaan & Upload Tugas
+
+Kamu dapat memilih **salah satu dari dua cara** berikut untuk mengunggah tugas ke repository pribadi.
+
+#### 🟢 Opsi A: Menggunakan Git Terminal (Rekomendasi)
+
+Jika ingin belajar alur kerja standar pengembang *software*, gunakan Terminal atau *Command Prompt*.
 
 **1. Clone repository ke komputer lokal:**
 
@@ -57,99 +71,142 @@ git clone https://github.com/KELOMPOK-5-ALPROKOM-1-26-27/[nama-repo-kamu].git
 cd [nama-repo-kamu]
 ```
 
-**2. Buat folder minggu berjalan.**
+**2. Buka folder pertemuan yang sesuai.**
 
-Contoh: `week-01/src`, kemudian simpan file program kamu di dalamnya.
+Contoh:
 
-**3. Commit & Push pekerjaan:**
+```text
+Pertemuan 2/
+```
+
+Folder pertemuan sudah disediakan pada repository masing-masing.
+
+**3. Masukkan file kode dan laporan ke dalam folder pertemuan tersebut.**
+
+**4. Commit & Push pekerjaan:**
 
 ```bash
 git add .
-git commit -m "[WEEK-01] Selesai pengerjaan tugas minggu 1"
+git commit -m "[PERTEMUAN-02] Pengumpulan tugas"
 git push origin main
 ```
 
 ---
 
-##### 🟡 Opsi B: Tanpa Git (Upload Langsung via Web Browser)
+#### 🟡 Opsi B: Tanpa Git (Upload Langsung via Web Browser)
 
-Jika belum familiar dengan perintah Git atau Terminal, kamu bisa mengunggah file langsung melalui GitHub.
+Jika belum familiar dengan perintah Git atau Terminal, kamu dapat mengunggah file langsung melalui GitHub.
 
-**1. Buka repository pribadi kamu** melalui link berikut:
+**1. Buka repository pribadi kamu:**
 
 ```text
 https://github.com/KELOMPOK-5-ALPROKOM-1-26-27/[nama-repo-kamu]
 ```
 
-**2. Klik tombol `Add file` ➔ pilih `Upload files`.**
+**2. Buka folder pertemuan yang sesuai.**
 
-**3. Upload folder tugas kamu.**
+Contoh:
 
-Drag & drop folder tugas, misalnya `week-01/`, ke area yang disediakan pada halaman browser.
+```text
+Pertemuan 2/
+```
 
-**4. Isi informasi commit.**
+**3. Klik `Add file` → `Upload files`.**
 
-Pada bagian **Commit changes** di bawah halaman:
+**4. Upload file kode dan laporan praktikum ke dalam folder tersebut.**
 
-- Isikan pesan singkat pada kolom judul.
+**5. Isi informasi commit.**
 
-  Contoh: `Upload Tugas Week 01`
+Contoh pesan commit:
 
-- Pastikan opsi **Commit directly to the `main` branch** terpilih.
+```text
+Pengumpulan Tugas Pertemuan 2
+```
 
-**5. Klik tombol hijau `Commit changes`.**
+Pastikan opsi **Commit directly to the `main` branch** terpilih.
+
+**6. Klik tombol `Commit changes`.**
 
 ---
 
-#### 3. Ketentuan Struktur Folder Repository Praktikan
+### 3. Ketentuan Struktur Folder Repository
 
-Setiap tugas mingguan dikerjakan di dalam folder masing-masing. Folder tersebut berisi source code dan laporan praktikum yang telah dikerjakan.
+Folder pertemuan telah disediakan pada repository masing-masing. Praktikan **tidak perlu membuat folder `src/` maupun `laporan/`**.
 
-Struktur repository yang digunakan adalah sebagai berikut:
+Kode program dan laporan praktikum disimpan secara langsung di dalam folder pertemuan masing-masing.
+
+Struktur repository:
 
 ```text
-[nama-repo-kamu]/
-├── week-01/
-│   ├── src/
-│   │   └── NamaFile.java       # File kode program
-│   └── laporan/
-│       └── Laporan_Praktikum_01.pdf
-├── week-02/
-│   ├── src/
-│   │   └── NamaFile.java
-│   └── laporan/
-│       └── Laporan_Praktikum_02.pdf
-├── week-03/
-│   ├── src/
-│   │   └── NamaFile.java
-│   └── laporan/
-│       └── Laporan_Praktikum_03.pdf
-└── README.md               # Biodata singkat / profil praktikan
+NamaLengkap_119/
+├── Pertemuan 1/
+│   ├── NamaProgram_Kelompok5_NamaLengkap.java
+│   └── LaporanPraktikum1_Kelompok5_NamaLengkap.pdf
+│
+├── Pertemuan 2/
+│   ├── NamaProgram_Kelompok5_NamaLengkap.java
+│   └── LaporanPraktikum2_Kelompok5_NamaLengkap.pdf
+│
+├── Pertemuan 3/
+│   ├── NamaProgram_Kelompok5_NamaLengkap.java
+│   └── LaporanPraktikum3_Kelompok5_NamaLengkap.pdf
+│
+└── README.md
+```
+
+### 📝 Ketentuan Penamaan File
+
+#### Laporan Praktikum
+
+Gunakan format:
+
+```text
+LaporanPraktikum[NomorPertemuan]_Kelompok5_NamaLengkap.pdf
+```
+
+Contoh:
+
+```text
+LaporanPraktikum2_Kelompok5_MuhammadFikriHidayat.pdf
+```
+
+#### 💻 File Kode
+
+Untuk satu file kode, gunakan format:
+
+```text
+NamaProgram_Kelompok5_NamaLengkap.java
+```
+
+Contoh:
+
+```text
+Kalkulator_Kelompok5_MuhammadFikriHidayat.java
 ```
 
 > 💡 **Catatan:**
 >
-> - Folder `src/` digunakan untuk menyimpan source code program.
-> - Folder `laporan/` digunakan untuk menyimpan laporan praktikum dalam format PDF.
-> - Pastikan nama file dan struktur folder sesuai dengan ketentuan yang telah ditetapkan.
-> - Sesuaikan nama file program dengan kebutuhan tugas dan bahasa pemrograman yang digunakan.
+> * Gunakan folder pertemuan yang telah disediakan.
+> * Jangan membuat folder `src/` atau `laporan/`.
+> * Kode program dan laporan disimpan langsung di dalam folder pertemuan.
+> * Pastikan nama file mengikuti format yang telah ditentukan.
+> * Jika terdapat lebih dari satu file kode, gunakan nama program sebagai pembeda.
+> * Gunakan ekstensi file sesuai bahasa pemrograman yang digunakan.
 
 ---
 
 ### ⚠️ Aturan Praktikum & Sanksi
 
-- **Batas Waktu (_Deadline_):** Timestamp commit pada GitHub akan dijadikan acuan waktu pengumpulan. Commit yang masuk melewati batas waktu akan dikenakan **pemotongan nilai per hari**.
+* **Batas Waktu (*Deadline*):** Timestamp commit pada GitHub akan dijadikan acuan waktu pengumpulan. Commit yang masuk melewati batas waktu akan dikenakan **pemotongan nilai per hari**.
 
-- **Integritas Akademik (Plagiarisme):** Dilarang keras meniru, menyalin, atau mengoper kode program antarpraktikan. Jika terdeteksi indikasi plagiarisme, **seluruh pihak yang terlibat akan diberikan nilai 0** untuk tugas tersebut.
+* **Integritas Akademik (Plagiarisme):** Dilarang keras meniru, menyalin, atau mengambil kode program dari praktikan lain. Jika terdeteksi indikasi plagiarisme, **seluruh pihak yang terlibat akan diberikan nilai 0** untuk tugas tersebut.
 
 ---
 
 ### 💬 Diskusi & Kendala
 
 Jika mengalami kendala teknis terkait materi atau pengerjaan tugas:
-
-- Manfaatkan fitur [**GitHub Issues**](../../issues) pada repository utama ini.
-- Hubungi tim Asprak melalui grup komunikasi resmi yang telah disediakan.
+* Hubungi tim Asprak melalui grup komunikasi resmi yang telah disediakan.
 
 ---
 
