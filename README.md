@@ -76,7 +76,7 @@ cd [nama-repo-kamu]
 Contoh:
 
 ```text
-Pertemuan 2/
+Pertemuan-2/
 ```
 
 Folder pertemuan sudah disediakan pada repository masing-masing.
@@ -108,7 +108,7 @@ https://github.com/KELOMPOK-5-ALPROKOM-1-26-27/[nama-repo-kamu]
 Contoh:
 
 ```text
-Pertemuan 2/
+Pertemuan-2/
 ```
 
 **3. Klik `Add file` → `Upload files`.**
@@ -139,15 +139,15 @@ Struktur repository:
 
 ```text
 NamaLengkap-3DigitNRPTerakhir/
-├── Pertemuan 1/
+├── Pertemuan-1/
 │   ├── NamaProgram_Kel5_NamaLengkap.java
 │   └── LaporanPraktikum1_Kel5_NamaLengkap.pdf
 │
-├── Pertemuan 2/
+├── Pertemuan-2/
 │   ├── NamaProgram_Kel5_NamaLengkap.java
 │   └── LaporanPraktikum2_Kelompok5_NamaLengkap.pdf
 │
-├── Pertemuan 3/
+├── Pertemuan-3/
 │   ├── NamaProgram_Kel5_NamaLengkap.java
 │   └── LaporanPraktikum3_Kel5_NamaLengkap.pdf
 │
