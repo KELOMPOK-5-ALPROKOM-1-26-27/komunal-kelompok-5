@@ -36,13 +36,13 @@ Setiap praktikan telah dibuatkan repository pribadi di dalam Organisasi GitHub i
 Nama repository menggunakan format:
 
 ```text
-NamaLengkap_3DigitTerakhirNRP
+NamaLengkap-3DigitTerakhirNRP
 ```
 
 Contoh:
 
 ```text
-MuhammadFikriHidayat_119
+Muhammad-Fikri-Hidayat-119
 ```
 
 > **Catatan:** Gunakan nama lengkap sesuai data yang telah diberikan kepada asisten praktikum dan tiga digit terakhir NRP.
