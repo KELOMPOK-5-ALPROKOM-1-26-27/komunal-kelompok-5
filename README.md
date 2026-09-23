@@ -17,13 +17,13 @@ Repository ini berfungsi sebagai pusat informasi materi praktikum, instruksi pen
 
 ### 📅 Jadwal Materi & Penugasan
 
-> ℹ️ **Status Saat Ini:** Materi dan penugasan belum dirilis. Tabel di bawah akan diperbarui secara berkala sesuai minggu praktikum yang berjalan.
+> ℹ️ **Status Saat Ini:** Materi dan penugasan akan diperbarui secara berkala sesuai minggu praktikum yang berjalan.
 
-|  Week  | Topik / Materi    |   Slide Materi   |   Detail Tugas   | Tenggat Waktu |
-| :----: | :---------------- | :--------------: | :--------------: | :-----------: |
-| **01** | _To be announced_ | 🔒 _Coming Soon_ | 🔒 _Coming Soon_ |       -       |
-| **02** | _To be announced_ | 🔒 _Coming Soon_ | 🔒 _Coming Soon_ |       -       |
-| **03** | _To be announced_ | 🔒 _Coming Soon_ | 🔒 _Coming Soon_ |       -       |
+|  Week  | Topik / Materi                   |                                   Slide Materi                                    |                Detail Tugas                 |       Tenggat Waktu Tugas        |
+| :----: | :------------------------------- | :-------------------------------------------------------------------------------: | :-----------------------------------------: | :------------------------------: |
+| **02** | Variabel, Tipe Data dan Operator | [📖 Lihat Materi](./Pertemuan%202/Variabel%2C%20Tipe%20Data%20dan%20Operator.pdf) | [📝 Lihat Tugas](./Pertemuan%202/Tugas.pdf) | **18:30 WIB, 30 September 2026** |
+| **03** | _To be announced_                |                                 🔒 _Coming Soon_                                  |              🔒 _Coming Soon_               |                -                 |
+| **04** | _To be announced_                |                                 🔒 _Coming Soon_                                  |              🔒 _Coming Soon_               |                -                 |
 
 ---
 
