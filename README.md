@@ -140,16 +140,16 @@ Struktur repository:
 ```text
 NamaLengkap-3DigitNRPTerakhir/
 ├── Pertemuan 1/
-│   ├── NamaProgram_Kelompok5_NamaLengkap.java
-│   └── LaporanPraktikum1_Kelompok5_NamaLengkap.pdf
+│   ├── NamaProgram_Kel5_NamaLengkap.java
+│   └── LaporanPraktikum1_Kel5_NamaLengkap.pdf
 │
 ├── Pertemuan 2/
-│   ├── NamaProgram_Kelompok5_NamaLengkap.java
+│   ├── NamaProgram_Kel5_NamaLengkap.java
 │   └── LaporanPraktikum2_Kelompok5_NamaLengkap.pdf
 │
 ├── Pertemuan 3/
-│   ├── NamaProgram_Kelompok5_NamaLengkap.java
-│   └── LaporanPraktikum3_Kelompok5_NamaLengkap.pdf
+│   ├── NamaProgram_Kel5_NamaLengkap.java
+│   └── LaporanPraktikum3_Kel5_NamaLengkap.pdf
 │
 └── README.md
 ```
@@ -161,13 +161,13 @@ NamaLengkap-3DigitNRPTerakhir/
 Gunakan format:
 
 ```text
-LaporanPraktikum[NomorPertemuan]_Kelompok5_NamaLengkap.pdf
+LaporanPraktikum[NomorPertemuan]_Kel5_NamaLengkap.pdf
 ```
 
 Contoh:
 
 ```text
-LaporanPraktikum2_Kelompok5_MuhammadFikriHidayat.pdf
+LaporanPraktikum2_Kel5_MuhammadFikriHidayat.pdf
 ```
 
 #### 💻 File Kode
@@ -175,13 +175,13 @@ LaporanPraktikum2_Kelompok5_MuhammadFikriHidayat.pdf
 Untuk satu file kode, gunakan format:
 
 ```text
-NamaProgram_Kelompok5_NamaLengkap.java
+NamaProgram_Kel5_NamaLengkap.java
 ```
 
 Contoh:
 
 ```text
-Kalkulator_Kelompok5_MuhammadFikriHidayat.java
+Kalkulator_Kel5_MuhammadFikriHidayat.java
 ```
 
 > 💡 **Catatan:**
