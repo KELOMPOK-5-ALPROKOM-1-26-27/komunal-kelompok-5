@@ -19,11 +19,11 @@ Repository ini berfungsi sebagai pusat informasi materi praktikum, instruksi pen
 
 > ℹ️ **Status Saat Ini:** Materi dan penugasan akan diperbarui secara berkala sesuai minggu praktikum yang berjalan.
 
-| Pertemuan | Topik / Materi                   |                                    Slide Materi                                   |                 Detail Tugas                |        Tenggat Waktu Tugas       |
-| :-------: | :------------------------------- | :-------------------------------------------------------------------------------: | :-----------------------------------------: | :------------------------------: |
-|   **02**  | Variabel, Tipe Data dan Operator | [📖 Lihat Materi](./Pertemuan%202/Variabel%2C%20Tipe%20Data%20dan%20Operator.pdf) | [📝 Lihat Tugas](./Pertemuan%202/Tugas.pdf) | **18:30 WIB, 30 September 2026** |
-|   **03**  | *To be announced*                |                                  🔒 *Coming Soon*                                 |               🔒 *Coming Soon*              |                 -                |
-|   **04**  | *To be announced*                |                                  🔒 *Coming Soon*                                 |               🔒 *Coming Soon*              |                 -                |
+| Pertemuan | Topik / Materi                   |                                   Slide Materi                                    |                    Detail Tugas                    |       Tenggat Waktu Tugas        |
+| :-------: | :------------------------------- | :-------------------------------------------------------------------------------: | :------------------------------------------------: | :------------------------------: |
+|  **02**   | Variabel, Tipe Data dan Operator | [📖 Lihat Materi](./Pertemuan%202/Variabel%2C%20Tipe%20Data%20dan%20Operator.pdf) |    [📝 Lihat Tugas](./Pertemuan%202/Tugas.pdf)     | **18:30 WIB, 30 September 2026** |
+|  **03**   | Casting & Input                  |                 [📖 Lihat Materi](./Pertemuan%203/PPT_Week_3.pdf)                 | [📝 Lihat Tugas](./Pertemuan%203/tugas_week_3.pdf) |  **18:30 WIB, 07 Oktober 2026**  |
+|  **04**   | _To be announced_                |                                 🔒 _Coming Soon_                                  |                  🔒 _Coming Soon_                  |                -                 |
 
 ---
 
@@ -49,9 +49,9 @@ Muhammad-Fikri-Hidayat-119
 
 ---
 
-### 1. Terima Undangan (*Invitation*)
+### 1. Terima Undangan (_Invitation_)
 
-1. Cek email yang terdaftar di akun GitHub kamu atau cek notifikasi GitHub untuk menerima undangan akses (*invitation*) ke repository tugas individu.
+1. Cek email yang terdaftar di akun GitHub kamu atau cek notifikasi GitHub untuk menerima undangan akses (_invitation_) ke repository tugas individu.
 2. Kamu juga dapat mengakses daftar repository melalui halaman utama [Organisasi Kelompok 5](https://github.com/KELOMPOK-5-ALPROKOM-1-26-27).
 
 ---
@@ -62,7 +62,7 @@ Kamu dapat memilih **salah satu dari dua cara** berikut untuk mengunggah tugas k
 
 #### 🟢 Opsi A: Menggunakan Git Terminal (Rekomendasi)
 
-Jika ingin belajar alur kerja standar pengembang *software*, gunakan Terminal atau *Command Prompt*.
+Jika ingin belajar alur kerja standar pengembang _software_, gunakan Terminal atau _Command Prompt_.
 
 **1. Clone repository ke komputer lokal:**
 
@@ -186,27 +186,28 @@ Kalkulator_Kel5_MuhammadFikriHidayat.java
 
 > 💡 **Catatan:**
 >
-> * Gunakan folder pertemuan yang telah disediakan.
-> * Jangan membuat folder `src/` atau `laporan/`.
-> * Kode program dan laporan disimpan langsung di dalam folder pertemuan.
-> * Pastikan nama file mengikuti format yang telah ditentukan.
-> * Jika terdapat lebih dari satu file kode, gunakan nama program sebagai pembeda.
-> * Gunakan ekstensi file sesuai bahasa pemrograman yang digunakan.
+> - Gunakan folder pertemuan yang telah disediakan.
+> - Jangan membuat folder `src/` atau `laporan/`.
+> - Kode program dan laporan disimpan langsung di dalam folder pertemuan.
+> - Pastikan nama file mengikuti format yang telah ditentukan.
+> - Jika terdapat lebih dari satu file kode, gunakan nama program sebagai pembeda.
+> - Gunakan ekstensi file sesuai bahasa pemrograman yang digunakan.
 
 ---
 
 ### ⚠️ Aturan Praktikum & Sanksi
 
-* **Batas Waktu (*Deadline*):** Timestamp commit pada GitHub akan dijadikan acuan waktu pengumpulan. Commit yang masuk melewati batas waktu akan dikenakan **pemotongan nilai per hari**.
+- **Batas Waktu (_Deadline_):** Timestamp commit pada GitHub akan dijadikan acuan waktu pengumpulan. Commit yang masuk melewati batas waktu akan dikenakan **pemotongan nilai per hari**.
 
-* **Integritas Akademik (Plagiarisme):** Dilarang keras meniru, menyalin, atau mengambil kode program dari praktikan lain. Jika terdeteksi indikasi plagiarisme, **seluruh pihak yang terlibat akan diberikan nilai 0** untuk tugas tersebut.
+- **Integritas Akademik (Plagiarisme):** Dilarang keras meniru, menyalin, atau mengambil kode program dari praktikan lain. Jika terdeteksi indikasi plagiarisme, **seluruh pihak yang terlibat akan diberikan nilai 0** untuk tugas tersebut.
 
 ---
 
 ### 💬 Diskusi & Kendala
 
 Jika mengalami kendala teknis terkait materi atau pengerjaan tugas:
-* Hubungi tim Asprak melalui grup komunikasi resmi yang telah disediakan.
+
+- Hubungi tim Asprak melalui grup komunikasi resmi yang telah disediakan.
 
 ---
 
