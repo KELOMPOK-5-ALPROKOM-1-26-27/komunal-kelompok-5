@@ -23,7 +23,7 @@ Repository ini berfungsi sebagai pusat informasi materi praktikum, instruksi pen
 | :-------: | :------------------------------- | :-------------------------------------------------------------------------------: | :------------------------------------------------: | :------------------------------: |
 |  **02**   | Variabel, Tipe Data dan Operator | [📖 Lihat Materi](./Pertemuan%202/Variabel%2C%20Tipe%20Data%20dan%20Operator.pdf) |    [📝 Lihat Tugas](./Pertemuan%202/Tugas.pdf)     | **18:30 WIB, 30 September 2026** |
 |  **03**   | Casting & Input                  |                 [📖 Lihat Materi](./Pertemuan%203/PPT_Week_3.pdf)                 | [📝 Lihat Tugas](./Pertemuan%203/tugas_week_3.pdf) |  **18:30 WIB, 07 Oktober 2026**  |
-|  **04**   | _To be announced_                |                                 🔒 _Coming Soon_                                  |                  🔒 _Coming Soon_                  |                -                 |
+|  **04**   | Flowchart dan Struktur Kontrol 1 |  [📖 Lihat Materi](./Pertemuan%204)    | [📝 Lihat Tugas](./Pertemuan%204/tugas_week_4.pdf)   |  **18:30 WIB, 14 Oktober 2026**  |
 
 ---
 
