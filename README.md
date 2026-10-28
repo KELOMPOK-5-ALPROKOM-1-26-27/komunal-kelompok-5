@@ -25,6 +25,7 @@ Repository ini berfungsi sebagai pusat informasi materi praktikum, instruksi pen
 |  **03**   | Casting & Input                  |                 [📖 Lihat Materi](./Pertemuan%203/PPT_Week_3.pdf)                 | [📝 Lihat Tugas](./Pertemuan%203/tugas_week_3.pdf) |  **18:30 WIB, 07 Oktober 2026**  |
 |  **04**   | Flowchart dan Struktur Kontrol 1 |                        [📖 Lihat Materi](./Pertemuan%204)                         | [📝 Lihat Tugas](./Pertemuan%204/tugas_week_4.pdf) |  **18:30 WIB, 14 Oktober 2026**  |
 |  **05**   | Struktur Kontrol 2               |                        [📖 Lihat Materi](./Pertemuan%205)                         | [📝 Lihat Tugas](./Pertemuan%205/tugas_week_5.pdf) |  **18:30 WIB, 28 Oktober 2026**  |
+|  **06**   | Looping                          |                        [📖 Lihat Materi](./Pertemuan%206)                         | [📝 Lihat Tugas](./Pertemuan%205/tugas_week_6.pdf) |  **18:30 WIB, 4 November 2026**  |
 
 ---
 
