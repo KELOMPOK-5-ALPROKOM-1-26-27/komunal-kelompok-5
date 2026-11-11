@@ -27,6 +27,7 @@ Repository ini berfungsi sebagai pusat informasi materi praktikum, instruksi pen
 |  **05**   | Struktur Kontrol 2               |                        [📖 Lihat Materi](./Pertemuan%205)                         | [📝 Lihat Tugas](./Pertemuan%205/tugas_week_5.pdf) |  **18:30 WIB, 28 Oktober 2026**  |
 |  **06**   | Looping                          |                        [📖 Lihat Materi](./Pertemuan%206)                         | [📝 Lihat Tugas](./Pertemuan%206/tugas_week_6.pdf) |  **18:30 WIB, 4 November 2026**  |
 |  **07**   | Control Flow                     |                        [📖 Lihat Materi](./Pertemuan%207)                         | [📝 Lihat Tugas](./Pertemuan%207/tugas_week_7.pdf) | **18:30 WIB, 11 November 2026**  |
+|  **07**   | Method                           |                        [📖 Lihat Materi](./Pertemuan%208)                         | [📝 Lihat Tugas](./Pertemuan%207/tugas_week_8.pdf) | **18:30 WIB, 18 November 2026**  |
 
 ---
 
